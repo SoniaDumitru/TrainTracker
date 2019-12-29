@@ -25,7 +25,6 @@ class Station extends React.Component {
 
   render() {
     // console.log(this.props.station)
-    // console.log(this.state.arrivals.ctatt)
     debugger;
 
     return (
