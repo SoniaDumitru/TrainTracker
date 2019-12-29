@@ -3,7 +3,6 @@ import Station from './Station.js'
 
 class StationCollection extends React.Component {
   render() {
-    // console.log(this.props.stations.MAP_ID)
     return (
       <div>
         <h1>Hello From Station Collection</h1>
