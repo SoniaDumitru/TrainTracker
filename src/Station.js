@@ -24,9 +24,6 @@ class Station extends React.Component {
     }
 
   render() {
-    // console.log(this.props.station)
-    debugger;
-
     return (
       <div>
         <ul><button onClick = {this.handleClick}>{this.props.station.STATION_NAME}</button></ul>

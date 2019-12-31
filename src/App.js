@@ -18,8 +18,6 @@ class App extends React.Component {
   }
 
   render() {
-    // console.log(this.state.stations)
-    // console.log(this.state.arrivals)
     return (
       <div className="App">
         <header className="App-header">
